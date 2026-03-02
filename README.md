@@ -25,10 +25,10 @@ Your morning deserves an upgrade.  Whether you’re grinding through emails or j
  Visit us on Main St!
 #TheDailyPerk #LocalCoffee #UGC #MorningRoutine
 Option 2: The "Straight to the Point" Caption
-Better beans, better mood. ☕️ Come see why the neighborhood is obsessed with our signature brews. Mention this Reel at the counter for a little surprise with your order! 
+Better beans, better mood.  Come see why the neighborhood is obsessed with our signature brews. Mention this Reel at the counter for a little surprise with your order! 
 Open from 7 AM.
 #SupportLocal #CoffeeLover #HiddenGem
-​📄 Project Documentation
+​Project Documentation
 ​ Objective
 ​To build a reusable prompt system that generates high-converting, authentic UGC-style ad content for local businesses.
 ​ Business Choice
